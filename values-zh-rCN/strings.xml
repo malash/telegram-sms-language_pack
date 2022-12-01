@@ -17,6 +17,7 @@
     <string name="charger_connect">交流充电器已连接。</string>
     <string name="charger_disconnect">交流充电器已断开。</string>
     <string name="bot_token">机器人令牌</string>
+    <string name="api_domain">API 域名</string>
     <string name="chat_id">对话ID</string>
     <string name="trusted_phone_number">可信的电话号码</string>
     <string name="get_recent_chat_id">获取最近的对话ID</string>
@@ -26,6 +27,7 @@
     <string name="low_battery_status_end">电池电量不足状态已结束。</string>
     <string name="logcat">查看日志</string>
     <string name="token_not_configure">请先配置机器人令牌。</string>
+    <string name="api_domain_not_configure">请先配置 API 域名。</string>
     <string name="chat_id_or_token_not_config">请先配置机器人令牌和对话ID</string>
     <string name="unable_get_recent">无法获取最近的聊天记录</string>
     <string name="chat_command">获取聊天命令</string>
